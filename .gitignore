@@ -23,7 +23,6 @@ coverage
 
 # API keys and secrets
 .env
-global.d.ts
 
 # Dependency directory
 node_modules
